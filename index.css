@@ -1906,7 +1906,7 @@ div img {
     height: 30px;
   }
   .box2 img {
-    height: 15px;px;
+    height: 15px;
     width: auto;
     margin-left: auto;
   }
@@ -4173,8 +4173,7 @@ div img {
   }
   .header {
     display: flex;
-    width: 100%
-    ;
+    width: 100%;
     flex-direction: row;
     top: 0%;
     align-items: center;
