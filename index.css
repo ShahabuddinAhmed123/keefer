@@ -4173,7 +4173,8 @@ div img {
   }
   .header {
     display: flex;
-    width: 100%;
+    width: 100%
+    ;
     flex-direction: row;
     top: 0%;
     align-items: center;
